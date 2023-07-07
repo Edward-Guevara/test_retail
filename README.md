@@ -1,2 +1,2 @@
 # test_retail
-Este repositorio almacena la prueba de un proceso de selección para obtener el puesto de un científico de datos jr. La prueba trata de realizar un análisis de datos y el modelado de un algoritmo de aprendizaje de máquina para identificar buenos clientes en una tienda minorista. 
+This repository stores the evidence of a selection process to obtain the position of a data scientist jr. The test is about performing data analysis and modeling of a machine learning algorithm to identify good customers in a retail store.
